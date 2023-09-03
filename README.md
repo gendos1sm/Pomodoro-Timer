@@ -1,3 +1,3 @@
 # Pomodoro-Timer
-Pomodoro Timer App <br>
+Pomodoro Timer App with Tkinter <br>
 Launch through terminal/IDE .py file
